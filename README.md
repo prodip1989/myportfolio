@@ -8,7 +8,7 @@
 - Madhyamik,| West Bengal Board of Secondary Education (WBBSE) (_May 2006_) 
 
 
-## Work Experience:
+
 
 ## Certificates:
 
