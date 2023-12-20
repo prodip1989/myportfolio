@@ -1,15 +1,23 @@
 # Site settings
 title: My Portfolio
 author:
-  name: Prodip Sarkar
-  email: prodip1023@gmail.com
+  name: "Prodip Sarkar"
+  avatar:  "assets/images/prodip-sarkar-headshot.jpeg"
+  bio:  "Data Scientist & Machine Learning"
+  location:  "India, WB"
+  email: "prodip1023@gmail.com"
+  github:  "prodip1989"
+  linkedin:  "prodip1023"
+  twitter:  "prodip54370883"
+  kaggle:  "prodip1023"
+  medium:  "prodip1023"
 description: "I am a Full Stack Data Science Enginner"
 
 # Build settings
 remote_theme: jekyll/minima
 
-twitter_username:  prodip9614327299
-github_username:  prodip1989
+#twitter_username:  prodip9614327299
+#github_username:  prodip1989
 #medium_username: prodip1023
 #linkedin_username: prodip1023
 #kaggle_username: prodip1023
